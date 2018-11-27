@@ -1,0 +1,48 @@
+html {
+    position: relative;
+    min-height: 100%;
+    }
+
+body {
+    padding-bottom: 50px;
+    margin: 0 auto;
+    background-image:url("../images/dark-bg.png");
+    }
+
+.body-image {
+    background-color: #ffffff;
+    padding: 0px 30px 10px 30px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777777;
+    }
+
+.header2 {
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        font-weight: bold;
+        font-size: 30px;
+        color: #4aaaa5;
+    }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    background: #666666;
+    border-top: 9px solid #4aaaa5;
+    color: white;
+    text-align: center;
+    }
+
+  footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    }
+ 
+#footerText {
+    font-size: 14px;
+    margin: 20px;
+    color: #cccccc;
+    }
