@@ -24,11 +24,12 @@ body {
     color: #4aaaa5;
     }
 
-.navbar>.container-fluid .navbar-brand {
+.navbar>.container .navbar-brand {
     height: 70px;
     color:#ffffff;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 30px;
+    margin: auto;
     }
  
 .navbar-right {
