@@ -46,17 +46,15 @@ body {
 
 .portfolioPhotoText {
 	background: #4aaaa5;
-	height: 40px;
+	height: 30px;
 	width: 100%;
-	margin-top: 290px;
-	padding-top: 6px;
+	margin-top: 260px;
 	position: absolute;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 22px;
 	font-weight: bold;
 	color: #ffffff;
 	text-align: center;
-	transition: all 0.5s;
 }
 
 footer {
